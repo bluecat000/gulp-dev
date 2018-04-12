@@ -1,0 +1,22 @@
+{
+  "name": "bcnotes",
+  "version": "1.0.0",
+  "description": "## 实现功能",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-replace": "^0.6.1",
+    "gulp-rev-append": "^0.1.8",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {}
+}
